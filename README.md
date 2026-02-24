@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a BCA cybersecurity student passionate about technology and solving complex security challenges, with a focus on building secure and efficient digital solutions.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has developed my passion for cybersecurity, and I am eager to begin my career in this field by contributing as a SOC Analyst while continuously enhancing my skills in security operations.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -28,8 +28,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-tcpdump-005F9E?&style=for-the-badge" />
 </div>
 
 ### Endpoint
@@ -40,19 +41,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20SecOps-1A73E8?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20SOC%20Analyst%20(CSA)-A100FF?&style=for-the-badge&logo=ec-council&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20SIEM%20%26%20SOAR-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Advent%20of%20Cyber%20(TryHackMe)-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>
 
 ## Projects
