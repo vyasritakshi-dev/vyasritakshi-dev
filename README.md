@@ -1,17 +1,17 @@
 # Hello, I'm RITAKSHI VYAS
 <a href="https://www.linkedin.com/in/ritakshi-vyas-858a34290"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am a BCA cybersecurity student passionate about technology and solving complex security challenges, with a focus on building secure and efficient digital solutions.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in computer science has developed my passion for cybersecurity, and I am eager to begin my career in this field by contributing as a SOC Analyst while continuously enhancing my skills in security operations.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +23,7 @@ My journey in computer science has developed my passion for cybersecurity, and I
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -46,7 +46,7 @@ My journey in computer science has developed my passion for cybersecurity, and I
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Certified%20SOC%20Analyst%20(CSA)-A100FF?&style=for-the-badge&logo=ec-council&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
