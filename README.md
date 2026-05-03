@@ -68,11 +68,11 @@ My journey in computer science has developed my passion for cybersecurity, and I
 </div>
 
 ## Projects
-- 🔐 **SOC Automation & Incident Response Tool** *(In Progress)*  
+-  **SOC Automation & Incident Response Tool** *(In Progress)*  
   Built a system for automated threat detection, alert generation, and case management to simulate real-world SOC workflows.
 
-- 🛡️ **Network Intrusion Detection System (IDS)** *(In Progress)* 
+-  **Network Intrusion Detection System (IDS)** *(In Progress)* 
   Developed a packet sniffer using Scapy to capture and analyze network traffic for suspicious patterns.
 
-- 🌐 **Subnet Calculator (IPv4 & IPv6)**  
+-  **Subnet Calculator (IPv4 & IPv6)**  
   Designed a responsive tool to perform subnet calculations with support for both IPv4 and IPv6.
