@@ -13,14 +13,31 @@ My journey in computer science has developed my passion for cybersecurity, and I
 ## Skills
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+###  Network Security
+- TCP/IP, DNS, HTTP/HTTPS fundamentals  
+- Packet flow & network traffic analysis  
+
+###  Threat Detection & Analysis
+- Basic intrusion detection concepts  
+- Identifying suspicious traffic patterns  
+- Log analysis fundamentals  
+
+###  Packet Analysis
+- Scapy (packet capture & inspection)  
+- Wireshark (traffic analysis)  
+
+###  Incident Response (Basic)
+- Alert investigation workflow  
+- Understanding of SOC processes (L1 level)  
+
+###  Security Tools
+- Kali Linux  
+- Wireshark  
+- Nmap (basic scanning)  
+
+###  Version Control & Environment
+- Git & GitHub  
+- VS Code  
 
 ## Tools
 
@@ -33,11 +50,6 @@ My journey in computer science has developed my passion for cybersecurity, and I
     <img src="https://img.shields.io/badge/-tcpdump-005F9E?&style=for-the-badge" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -56,5 +68,11 @@ My journey in computer science has developed my passion for cybersecurity, and I
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 🔐 **SOC Automation & Incident Response Tool** *(In Progress)*  
+  Built a system for automated threat detection, alert generation, and case management to simulate real-world SOC workflows.
+
+- 🛡️ **Network Intrusion Detection System (IDS)** *(In Progress)* 
+  Developed a packet sniffer using Scapy to capture and analyze network traffic for suspicious patterns.
+
+- 🌐 **Subnet Calculator (IPv4 & IPv6)**  
+  Designed a responsive tool to perform subnet calculations with support for both IPv4 and IPv6.
